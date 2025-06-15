@@ -39,7 +39,7 @@ const Hero = () => {
             <div className="absolute -inset-1 bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600 rounded-full blur opacity-75 group-hover:opacity-100 transition duration-1000 group-hover:duration-200 animate-pulse"></div>
             <div className="relative">
               <img
-                src="src\components\Images\WhatsApp Image 2025-06-14 at 21.12.19_e0bf65e1.jpg"
+                src="https://github.com/Gangana2/Portfolio/blob/main/src/components/Images/WhatsApp Image 2025-06-14 at 21.12.19_e0bf65e1.jpg?raw=true"
                 alt="Gangana Fernando - Full Stack Developer"
                 className="w-64 h-64 lg:w-80 lg:h-80 rounded-full object-cover border-4 border-white/20 shadow-2xl group-hover:scale-105 transition-transform duration-300"
               />
