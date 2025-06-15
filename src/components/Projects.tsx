@@ -8,7 +8,7 @@ const Projects = () => {
       gitLink: 'https://github.com/Gangana2/Job_Finder',
       description: 'Job-Finder Platform is a modern web application built with React, Node.js, and TypeScript. It connects job seekers with employers, offering features like job listings, user authentication, and real-time search. The platform ensures a smooth user experience with a responsive design and secure backend services.',
       tech: ['React', 'Node.js', 'TypeScript'],
-      image: 'src/components/Images/jobFiinder.png'
+      image: 'https://github.com/Gangana2/Portfolio/blob/main/src/components/Images/jobFiinder.png?raw=true'
     },
     {
       title: 'Task Management System',
@@ -22,21 +22,21 @@ const Projects = () => {
       gitLink: 'https://github.com/Gangana2/Weather_App',
       description: 'Data visualization app using Python for backend processing and React for the frontend. Integrates multiple weather APIs and provides comprehensive analytics.',
       tech: ['JavaScript', 'CSS', 'HTML'],
-      image: 'src/components/Images/weather.jpg'
+      image: 'https://github.com/Gangana2/Portfolio/blob/main/src/components/Images/weather.jpg?raw=true'
     },
     {
       title: 'Calculator App',
       gitLink: 'https://github.com/Gangana2/Calculator',
       description: 'Calculator App is a basic web application built using HTML, CSS, and JavaScript. It performs standard arithmetic operations like addition, subtraction, multiplication, and division with a clean and responsive user interface.',
       tech: ['HTML', 'JavaScript', 'CSS'],
-      image: 'src/components/Images/calculator.jpg'
+      image: 'https://github.com/Gangana2/Portfolio/blob/main/src/components/Images/calculator.jpg?raw=true'
     },
     {
       title: 'Conference Management System',
       gitLink: 'https://github.com/Gangana2/conference_management_system',
       description: 'Conference Management System is a web-based application developed using HTML, CSS, JavaScript, and PHP. It allows users to register for conferences, manage schedules, and handle speaker information. The system also provides admin functionalities to organize events and monitor participant data efficiently.',
       tech: ['HTML', 'CSS', 'JavaScript', 'PHP'],
-      image: 'src/components/Images/conference.webp'
+      image: 'https://github.com/Gangana2/Portfolio/blob/main/src/components/Images/conference.webp?raw=true'
     }
   ];
 
